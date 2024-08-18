@@ -1,0 +1,14 @@
+C:\Users\Administrator\source\repos\Assignment24\Assignment24\bin\Debug\net8.0\Assignment24.exe
+C:\Users\Administrator\source\repos\Assignment24\Assignment24\bin\Debug\net8.0\Assignment24.deps.json
+C:\Users\Administrator\source\repos\Assignment24\Assignment24\bin\Debug\net8.0\Assignment24.runtimeconfig.json
+C:\Users\Administrator\source\repos\Assignment24\Assignment24\bin\Debug\net8.0\Assignment24.dll
+C:\Users\Administrator\source\repos\Assignment24\Assignment24\bin\Debug\net8.0\Assignment24.pdb
+C:\Users\Administrator\source\repos\Assignment24\Assignment24\obj\Debug\net8.0\Assignment24.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\source\repos\Assignment24\Assignment24\obj\Debug\net8.0\Assignment24.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\Assignment24\Assignment24\obj\Debug\net8.0\Assignment24.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\Assignment24\Assignment24\obj\Debug\net8.0\Assignment24.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\Assignment24\Assignment24\obj\Debug\net8.0\Assignment24.dll
+C:\Users\Administrator\source\repos\Assignment24\Assignment24\obj\Debug\net8.0\refint\Assignment24.dll
+C:\Users\Administrator\source\repos\Assignment24\Assignment24\obj\Debug\net8.0\Assignment24.pdb
+C:\Users\Administrator\source\repos\Assignment24\Assignment24\obj\Debug\net8.0\Assignment24.genruntimeconfig.cache
+C:\Users\Administrator\source\repos\Assignment24\Assignment24\obj\Debug\net8.0\ref\Assignment24.dll

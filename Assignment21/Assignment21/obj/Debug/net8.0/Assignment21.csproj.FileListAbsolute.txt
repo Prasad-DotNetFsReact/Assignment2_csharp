@@ -1,0 +1,14 @@
+C:\Users\Administrator\source\repos\Assignment21\Assignment21\bin\Debug\net8.0\Assignment21.exe
+C:\Users\Administrator\source\repos\Assignment21\Assignment21\bin\Debug\net8.0\Assignment21.deps.json
+C:\Users\Administrator\source\repos\Assignment21\Assignment21\bin\Debug\net8.0\Assignment21.runtimeconfig.json
+C:\Users\Administrator\source\repos\Assignment21\Assignment21\bin\Debug\net8.0\Assignment21.dll
+C:\Users\Administrator\source\repos\Assignment21\Assignment21\bin\Debug\net8.0\Assignment21.pdb
+C:\Users\Administrator\source\repos\Assignment21\Assignment21\obj\Debug\net8.0\Assignment21.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\source\repos\Assignment21\Assignment21\obj\Debug\net8.0\Assignment21.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\Assignment21\Assignment21\obj\Debug\net8.0\Assignment21.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\Assignment21\Assignment21\obj\Debug\net8.0\Assignment21.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\Assignment21\Assignment21\obj\Debug\net8.0\Assignment21.dll
+C:\Users\Administrator\source\repos\Assignment21\Assignment21\obj\Debug\net8.0\refint\Assignment21.dll
+C:\Users\Administrator\source\repos\Assignment21\Assignment21\obj\Debug\net8.0\Assignment21.pdb
+C:\Users\Administrator\source\repos\Assignment21\Assignment21\obj\Debug\net8.0\Assignment21.genruntimeconfig.cache
+C:\Users\Administrator\source\repos\Assignment21\Assignment21\obj\Debug\net8.0\ref\Assignment21.dll

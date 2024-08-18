@@ -1,0 +1,14 @@
+C:\Users\Administrator\source\repos\Assignment22\Assignment22\bin\Debug\net8.0\Assignment22.exe
+C:\Users\Administrator\source\repos\Assignment22\Assignment22\bin\Debug\net8.0\Assignment22.deps.json
+C:\Users\Administrator\source\repos\Assignment22\Assignment22\bin\Debug\net8.0\Assignment22.runtimeconfig.json
+C:\Users\Administrator\source\repos\Assignment22\Assignment22\bin\Debug\net8.0\Assignment22.dll
+C:\Users\Administrator\source\repos\Assignment22\Assignment22\bin\Debug\net8.0\Assignment22.pdb
+C:\Users\Administrator\source\repos\Assignment22\Assignment22\obj\Debug\net8.0\Assignment22.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\source\repos\Assignment22\Assignment22\obj\Debug\net8.0\Assignment22.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\Assignment22\Assignment22\obj\Debug\net8.0\Assignment22.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\Assignment22\Assignment22\obj\Debug\net8.0\Assignment22.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\Assignment22\Assignment22\obj\Debug\net8.0\Assignment22.dll
+C:\Users\Administrator\source\repos\Assignment22\Assignment22\obj\Debug\net8.0\refint\Assignment22.dll
+C:\Users\Administrator\source\repos\Assignment22\Assignment22\obj\Debug\net8.0\Assignment22.pdb
+C:\Users\Administrator\source\repos\Assignment22\Assignment22\obj\Debug\net8.0\Assignment22.genruntimeconfig.cache
+C:\Users\Administrator\source\repos\Assignment22\Assignment22\obj\Debug\net8.0\ref\Assignment22.dll
